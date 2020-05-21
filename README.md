@@ -1,1 +1,2 @@
-# AI-Smart-Mirror
+# Smart Mirror
+Academic Project, Semester - VIII
